@@ -22,4 +22,5 @@ The goal is to build a solid foundation in modern, secure C programming before m
 
  | Chapter | Title | Status |
 | ----------- | ----------- | ----------- |
-| 1 | Getting Started with C | In Progress |
+| 1 | Getting Started with C | Done |
+| 2 | Objects, functions, and types | In Progress |
